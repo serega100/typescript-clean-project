@@ -1,4 +1,6 @@
-// todo Протестировать typescript
-// todo Добавить unit тесты
-// todo запаковать в архив
+// Edit this file
 console.log('Hello world!')
+
+export function returnArgument(number: number) : number {
+    return number
+}
