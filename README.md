@@ -4,6 +4,7 @@ This is just clean node.js project with installed typescipt and unit tests<br>
 Tested on node 14.18.1
 
 <h2>How to use it</h2>
+
 1. Clone this repository
 2. Set your project name at `package.json`
 3. Remove or replace `README.md`
